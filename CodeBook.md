@@ -2,7 +2,7 @@
 
 This dataset is derived from the Human Activity Recognition Using Smartphones Data Set from the UCI Machime Learning Repository. You can get the original dataset [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip).[1] 
 
-All the variables except the subjectID and the activity are an average for each activity and each subject in the original dataset.  See the specific description for each variable in the original dataset.
+All the variables except the subjectID and the activity are an average acceleration for each activity and each subject in the original dataset.  See the specific description for each variable in the original dataset. 
 
 ## Variables - Description
 
